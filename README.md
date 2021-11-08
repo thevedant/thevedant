@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thevedant
+- 👋 Hi, I’m Vedant Gupta
 - 👀 I’m interested in opensource
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...
